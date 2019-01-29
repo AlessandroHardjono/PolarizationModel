@@ -36,7 +36,10 @@ The cli program starts off with a tutorial, which will prompt the user to choose
 
 ## Examples Plots
 ![BoundModel_1](BoundModel_Normal200N.png)
+An bounded model example of a sample of 200 agents with a normal distribution
 ![BoundModel_2](BoundModel_Uniform100N.png)
-![BoundModel_3](BoundedModel_300N.png)
+An bounded model example of a sample of 100 agents with a uniform distribution
 ![ProximityModel](ProxModel_Bimodal200N.png)
+An proximity model example of a sample of 200 agents with a normal distribution
 ![SimpleModel](SimpleModel_Uniform150N.png)
+An simple model example of a sample of 150 agents with a uniform distribution
